@@ -1,0 +1,11 @@
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Domain\bin\Debug\net9.0\Transacoes.Domain.deps.json
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Domain\bin\Debug\net9.0\Transacoes.Domain.dll
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Domain\bin\Debug\net9.0\Transacoes.Domain.pdb
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Domain\obj\Debug\net9.0\Transacoes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Domain\obj\Debug\net9.0\Transacoes.Domain.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Domain\obj\Debug\net9.0\Transacoes.Domain.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Domain\obj\Debug\net9.0\Transacoes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Domain\obj\Debug\net9.0\Transacoes.Domain.dll
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Domain\obj\Debug\net9.0\refint\Transacoes.Domain.dll
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Domain\obj\Debug\net9.0\Transacoes.Domain.pdb
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Domain\obj\Debug\net9.0\ref\Transacoes.Domain.dll

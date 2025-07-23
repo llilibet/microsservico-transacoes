@@ -1,0 +1,15 @@
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Application\bin\Debug\net9.0\Transacoes.Application.deps.json
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Application\bin\Debug\net9.0\Transacoes.Application.dll
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Application\bin\Debug\net9.0\Transacoes.Application.pdb
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Application\bin\Debug\net9.0\Transacoes.Domain.dll
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Application\bin\Debug\net9.0\Transacoes.Domain.pdb
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Application\obj\Debug\net9.0\Transacoes.Application.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Application\obj\Debug\net9.0\Transacoes.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Application\obj\Debug\net9.0\Transacoes.Application.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Application\obj\Debug\net9.0\Transacoes.Application.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Application\obj\Debug\net9.0\Transacoes.Application.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Application\obj\Debug\net9.0\Transaco.7F3EA87C.Up2Date
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Application\obj\Debug\net9.0\Transacoes.Application.dll
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Application\obj\Debug\net9.0\refint\Transacoes.Application.dll
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Application\obj\Debug\net9.0\Transacoes.Application.pdb
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Application\obj\Debug\net9.0\ref\Transacoes.Application.dll

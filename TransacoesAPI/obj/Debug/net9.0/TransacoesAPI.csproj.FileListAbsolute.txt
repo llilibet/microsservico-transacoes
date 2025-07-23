@@ -1,0 +1,9 @@
+C:\Users\Marcos\Desktop\bebeth\transacoes\TransacoesAPI\obj\Debug\net9.0\TransacoesAPI.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\bebeth\transacoes\TransacoesAPI\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Marcos\Desktop\bebeth\transacoes\TransacoesAPI\obj\Debug\net9.0\TransacoesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\bebeth\transacoes\TransacoesAPI\obj\Debug\net9.0\TransacoesAPI.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\bebeth\transacoes\TransacoesAPI\obj\Debug\net9.0\TransacoesAPI.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\bebeth\transacoes\TransacoesAPI\obj\Debug\net9.0\TransacoesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\bebeth\transacoes\TransacoesAPI\obj\Debug\net9.0\TransacoesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marcos\Desktop\bebeth\transacoes\TransacoesAPI\obj\Debug\net9.0\TransacoesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marcos\Desktop\bebeth\transacoes\TransacoesAPI\obj\Debug\net9.0\TransacoesAPI.sourcelink.json

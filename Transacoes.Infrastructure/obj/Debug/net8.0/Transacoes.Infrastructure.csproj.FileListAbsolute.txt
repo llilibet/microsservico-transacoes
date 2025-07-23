@@ -1,0 +1,17 @@
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Infrastructure\obj\Debug\net8.0\Transacoes.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Infrastructure\obj\Debug\net8.0\Transacoes.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Infrastructure\obj\Debug\net8.0\Transacoes.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Infrastructure\obj\Debug\net8.0\Transacoes.Infrastructure.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Infrastructure\obj\Debug\net8.0\Transacoes.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Infrastructure\bin\Debug\net8.0\Transacoes.Infrastructure.deps.json
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Infrastructure\bin\Debug\net8.0\Transacoes.Infrastructure.dll
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Infrastructure\bin\Debug\net8.0\Transacoes.Infrastructure.pdb
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Infrastructure\bin\Debug\net8.0\Transacoes.Application.dll
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Infrastructure\bin\Debug\net8.0\Transacoes.Domain.dll
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Infrastructure\bin\Debug\net8.0\Transacoes.Application.pdb
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Infrastructure\bin\Debug\net8.0\Transacoes.Domain.pdb
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Infrastructure\obj\Debug\net8.0\Transaco.D56AC0D3.Up2Date
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Infrastructure\obj\Debug\net8.0\Transacoes.Infrastructure.dll
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Infrastructure\obj\Debug\net8.0\refint\Transacoes.Infrastructure.dll
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Infrastructure\obj\Debug\net8.0\Transacoes.Infrastructure.pdb
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Infrastructure\obj\Debug\net8.0\ref\Transacoes.Infrastructure.dll

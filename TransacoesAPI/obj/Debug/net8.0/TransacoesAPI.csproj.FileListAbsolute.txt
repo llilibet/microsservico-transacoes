@@ -59,3 +59,11 @@ C:\Users\Marcos\Desktop\bebeth\transacoes\TransacoesAPI\obj\Debug\net8.0\refint\
 C:\Users\Marcos\Desktop\bebeth\transacoes\TransacoesAPI\obj\Debug\net8.0\TransacoesAPI.pdb
 C:\Users\Marcos\Desktop\bebeth\transacoes\TransacoesAPI\obj\Debug\net8.0\TransacoesAPI.genruntimeconfig.cache
 C:\Users\Marcos\Desktop\bebeth\transacoes\TransacoesAPI\obj\Debug\net8.0\ref\TransacoesAPI.dll
+C:\Users\Marcos\Desktop\bebeth\transacoes\TransacoesAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Marcos\Desktop\bebeth\transacoes\TransacoesAPI\bin\Debug\net8.0\Azure.Core.Amqp.dll
+C:\Users\Marcos\Desktop\bebeth\transacoes\TransacoesAPI\bin\Debug\net8.0\Azure.Messaging.ServiceBus.dll
+C:\Users\Marcos\Desktop\bebeth\transacoes\TransacoesAPI\bin\Debug\net8.0\Microsoft.Azure.Amqp.dll
+C:\Users\Marcos\Desktop\bebeth\transacoes\TransacoesAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Marcos\Desktop\bebeth\transacoes\TransacoesAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Marcos\Desktop\bebeth\transacoes\TransacoesAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Marcos\Desktop\bebeth\transacoes\TransacoesAPI\bin\Debug\net8.0\System.Memory.Data.dll

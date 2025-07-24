@@ -4,12 +4,15 @@ using Transacoes.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// 1. Configurar a leitura das configurações
+// configurar a leitura das configurações
 builder.Services.Configure<TransactionDatabaseSettings>(
     builder.Configuration.GetSection("TransactionDatabaseSettings"));
 
-// 2. Adicionar nosso serviço ao sistema de injeção de dependência
+// adicionar nosso serviço ao sistema de injeção de dependência
 builder.Services.AddSingleton<ITransactionService, TransactionService>();
+
+// adicione esta linha para registrar o novo serviço
+builder.Services.AddSingleton<IMessageService, MessageService>();
 
 
 builder.Services.AddEndpointsApiExplorer();

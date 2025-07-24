@@ -15,3 +15,4 @@ C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Infrastructure\obj\Debug\ne
 C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Infrastructure\obj\Debug\net8.0\refint\Transacoes.Infrastructure.dll
 C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Infrastructure\obj\Debug\net8.0\Transacoes.Infrastructure.pdb
 C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Infrastructure\obj\Debug\net8.0\ref\Transacoes.Infrastructure.dll
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Infrastructure\obj\Debug\net8.0\Transacoes.Infrastructure.sourcelink.json

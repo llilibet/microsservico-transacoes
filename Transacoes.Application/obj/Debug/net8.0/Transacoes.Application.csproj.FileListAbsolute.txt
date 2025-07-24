@@ -13,3 +13,4 @@ C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Application\obj\Debug\net8.
 C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Application\obj\Debug\net8.0\refint\Transacoes.Application.dll
 C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Application\obj\Debug\net8.0\Transacoes.Application.pdb
 C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Application\obj\Debug\net8.0\ref\Transacoes.Application.dll
+C:\Users\Marcos\Desktop\bebeth\transacoes\Transacoes.Application\obj\Debug\net8.0\Transacoes.Application.sourcelink.json

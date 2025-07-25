@@ -9,6 +9,7 @@ builder.Services.Configure<TransactionDatabaseSettings>(
     builder.Configuration.GetSection("TransactionDatabaseSettings"));
 
 // adicionar nosso serviço ao sistema de injeção de dependência
+builder.Services.AddSingleton<ITransactionRepository, TransactionRepository>();
 builder.Services.AddSingleton<ITransactionService, TransactionService>();
 
 // adicione esta linha para registrar o novo serviço

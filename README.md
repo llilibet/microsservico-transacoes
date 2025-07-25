@@ -70,7 +70,11 @@ A API expõe os seguintes endpoints:
 1.  Clone este repositório.
 2.  Configure as suas "connection strings" no ficheiro `TransacoesAPI/appsettings.json`. Você precisará preencher os valores para `TransactionDatabaseSettings` (MongoDB) e `ServiceBusSettings` (Azure).
 3.  Abra a pasta raiz da solução (`transacoes`) no seu terminal.
-4.  Execute o comando `dotnet restore` para restaurar todas as dependências.
+4.  Execute o comando para restaurar todas as dependências:
+   
+```bash
+dotnet restore
+```
 
 ### Execução
 

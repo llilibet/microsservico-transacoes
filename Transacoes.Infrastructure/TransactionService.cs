@@ -1,4 +1,3 @@
-// Transacoes.Infrastructure/TransactionService.cs
 using System.Text.Json;
 using Transacoes.Application;
 using Transacoes.Domain;

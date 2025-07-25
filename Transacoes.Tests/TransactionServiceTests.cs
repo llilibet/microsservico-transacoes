@@ -11,17 +11,17 @@ public class TransactionServiceTests {
     private readonly Mock<ITransactionRepository> _mockRepository;
     private readonly Mock<IMessageService> _mockMessageService;
     
-    // declara o 'System Under Test' (SUT), o objeto que estamos a testar
+    // declara o 'System Under Test' (SUT), o objeto que a testar
     private readonly ITransactionService _sut;
 
-    // O construtor é executado antes de cada teste, preparando um ambiente limpo
+    // o construtor é executado antes de cada teste, preparando um ambiente limpo
     public TransactionServiceTests() {
         _mockRepository = new Mock<ITransactionRepository>();
         _mockMessageService = new Mock<IMessageService>();
         _sut = new TransactionService(_mockRepository.Object, _mockMessageService.Object);
     }
 
-    [Fact] // A anotação [Fact] marca esse método como um teste a ser executado pelo xUnit
+    [Fact] // a anotação [Fact] serve para marcar esse método como um teste a ser executado pelo xUnit
     public async Task CreateAsync_ShouldCallRepositoryAndMessageService_WhenCalled() {
         // Arrange (Organizar)
         // prepara os dados de entrada para o nosso teste

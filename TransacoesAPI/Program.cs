@@ -4,15 +4,15 @@ using Transacoes.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// configurar a leitura das configurações
+// configura a leitura das configurações
 builder.Services.Configure<TransactionDatabaseSettings>(
     builder.Configuration.GetSection("TransactionDatabaseSettings"));
 
-// adicionar nosso serviço ao sistema de injeção de dependência
+// injeção de dependência
 builder.Services.AddSingleton<ITransactionRepository, TransactionRepository>();
 builder.Services.AddSingleton<ITransactionService, TransactionService>();
 
-// adicione esta linha para registrar o novo serviço
+// registrar o novo serviço
 builder.Services.AddSingleton<IMessageService, MessageService>();
 
 
@@ -50,6 +50,5 @@ app.MapPost("/transactions", async (Transaction newTransaction, ITransactionServ
 })
 .WithName("CreateTransaction")
 .WithOpenApi();
-
 
 app.Run();
